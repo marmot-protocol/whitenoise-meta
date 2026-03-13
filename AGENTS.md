@@ -1,5 +1,3 @@
-# Agents Guide
-
 This vault tracks UX/UI design and product work for **White Noise**, a privacy-focused encrypted messaging mobile app.
 
 ## Vault Purpose
