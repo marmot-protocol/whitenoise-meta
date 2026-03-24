@@ -11,14 +11,14 @@
             "id": "4286f5555f054a18",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Design/ux-testing-off-2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "ux-testing-off-2025"
             }
           }
         ]
@@ -156,17 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YYYY-MM-template.md",
+                "file": "Design/ux-testing-off-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of YYYY-MM-template"
+              "title": "Outline of ux-testing-off-2025"
             }
           },
           {
-            "id": "5c73de16408a95c1",
+            "id": "1ecc1cb5e4e4ce19",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,10 +196,9 @@
   },
   "active": "4286f5555f054a18",
   "lastOpenFiles": [
-    "Design/ux-testing-off-2025.md",
-    "YYYY-MM-template.md",
-    "AGENTS.md",
     "README.md",
+    "AGENTS.md",
+    "YYYY-MM-template.md",
     "Research",
     "Product"
   ]
