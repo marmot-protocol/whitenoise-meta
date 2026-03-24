@@ -11,14 +11,14 @@
             "id": "4286f5555f054a18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "YYYY-MM-template.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "YYYY-MM-template"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -196,6 +196,8 @@
   },
   "active": "4286f5555f054a18",
   "lastOpenFiles": [
+    "Design/ux-testing-off-2025.md",
+    "YYYY-MM-template.md",
     "AGENTS.md",
     "README.md",
     "Research",
