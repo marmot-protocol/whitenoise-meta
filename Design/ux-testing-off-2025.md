@@ -2,7 +2,7 @@
 
 ## What is this doc?
 
-We're planning to do user testing of the beta of White Noise with activists at HRF's Oslo Freedom Froum in late May 2025. This doc should be used to help us plan everything related to these sessions.
+We're planning to do user testing of the beta of White Noise with activists at HRF's Oslo Freedom Forum in late May 2025. This doc should be used to help us plan everything related to these sessions.
 
 > [!CAUTION]
 > This repo is public, please DON'T add any names of activists or other people we'll be working with to this doc. This is only to plan the questions and format of the testing we'd like to do and to add anonymous learnings to the doc once we've finished.

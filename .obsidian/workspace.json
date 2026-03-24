@@ -11,6 +11,20 @@
             "id": "4286f5555f054a18",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "cd445767b4db1c7d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Design/ux-testing-off-2025.md",
@@ -21,7 +35,8 @@
               "title": "ux-testing-off-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,17 +171,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/ux-testing-off-2025.md",
+                "file": "YYYY-MM-template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ux-testing-off-2025"
+              "title": "Outline of YYYY-MM-template"
             }
           },
           {
-            "id": "1ecc1cb5e4e4ce19",
+            "id": "5c73de16408a95c1",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -180,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,11 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4286f5555f054a18",
+  "active": "cd445767b4db1c7d",
   "lastOpenFiles": [
-    "README.md",
-    "AGENTS.md",
+    "conflict-files-obsidian-git.md",
+    "Design/ux-testing-off-2025.md",
     "YYYY-MM-template.md",
+    "AGENTS.md",
+    "README.md",
     "Research",
     "Product"
   ]
