@@ -7,23 +7,24 @@ We're planning to do user testing of the beta of White Noise with activists at H
 > [!CAUTION]
 > This repo is public, please DON'T add any names of activists or other people we'll be working with to this doc. This is only to plan the questions and format of the testing we'd like to do and to add anonymous learnings to the doc once we've finished.
 
-| Task                                                    | What we hope to learn                                                                |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| Login with existing Nostr account                       | Can existing nostr users easily log in and use the app                               |
-| Create new account                                      | Is it easy for new users to create a new account - do they understand what it means? |
-| Onboarding flow - existing Nostr users                  | Can existing nostr users complete the steps needed to start sucure chat groups?      |
-| Find contact to create new chat                         | Can new nostr users get set up for chats quickly and easily                          |
-| Search for Nostr user (not followed) to create new chat |                                                                                      |
-| Create new chat                                         |                                                                                      |
-| View chat details and chat specific settings            |                                                                                      |
-| Send message in chat                                    |                                                                                      |
-| React to message in chat                                |                                                                                      |
-| Reply to message in chat                                |                                                                                      |
-| Send image in chat                                      |                                                                                      |
-| Update your Nostr profile                               |                                                                                      |
-| View connected relays                                   |                                                                                      |
-| Set up NWC (for advanced Nostr users)                   |                                                                                      |
-|                                                         |                                                                                      |
+| Task                                                                                 | What we hope to learn                                                                |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| Login with existing Nostr account                                                    | Can existing nostr users easily log in and use the app                               |
+| Create new account                                                                   | Is it easy for new users to create a new account - do they understand what it means? |
+| Onboarding flow - existing Nostr users                                               | Can existing nostr users complete the steps needed to start sucure chat groups?      |
+| Find contact to create new chat                                                      | Can new nostr users get set up for chats quickly and easily                          |
+| Search for Nostr user (not followed) to create new chat                              | Can they find the user they're looking for and start a chat without trouble?         |
+| Search for Nostr user (not followed and doesn't have the requirements to start chat) | Do they understand why they can't start a chat with the given user?                  |
+| Create new chat                                                                      |                                                                                      |
+| View chat details and chat specific settings                                         |                                                                                      |
+| Send message in chat                                                                 |                                                                                      |
+| React to message in chat                                                             |                                                                                      |
+| Reply to message in chat                                                             |                                                                                      |
+| Send image in chat                                                                   |                                                                                      |
+| Update your Nostr profile                                                            |                                                                                      |
+| View connected relays                                                                |                                                                                      |
+| Set up NWC (for advanced Nostr users)                                                |                                                                                      |
+|                                                                                      |                                                                                      |
 ## A little context
 
 Fourteen people gave us their time and honest reactions to help shape Whitenoise. They came from all over: Africa, Latin America, Europe, the Nordics, MENA, North America. Some were Bitcoin developers and educators. Others were human rights advocates, NGO workers, entrepreneurs. A few were deep in the Nostr ecosystem, others had never heard of it.
