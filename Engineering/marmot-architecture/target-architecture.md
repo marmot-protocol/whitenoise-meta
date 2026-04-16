@@ -12,7 +12,7 @@ related:
 
 # Target Architecture — The Big Picture
 
-**The problem this solves:** The current Marmot stack has MLS, Nostr, and application logic deeply coupled together. Changing anything requires understanding all of it. Transport is not pluggable. The CGKA (continuous group key agreement) backend is not swappable. Testing requires the full stack. This document defines the a *potential* target architecture that separates these concerns cleanly — transport, CGKA, and application each behind their own interfaces, with the engine as the single integration point.
+**The problem this solves:** The current Marmot stack has MLS, Nostr, and application logic deeply coupled together. Changing anything requires understanding all of it. Transport is not pluggable. The CGKA (continuous group key agreement) backend is not swappable. Testing requires the full stack. This document defines a *potential* target architecture that separates these concerns cleanly — transport, CGKA, and application each behind their own interfaces, with the engine as the single integration point.
 
 This document captures the core architectural vision. Not an implementation plan. Not a refactor checklist. The idea, clearly stated, so it doesn't get lost.
 
@@ -352,7 +352,7 @@ enum MessageType {
 │                                                     │
 │  Transport adapters live here:                      │
 │    NostrAdapter: nostr::Event → TransportMessage    │
-│    FipsAdapter:  fips::Frame  → TransportMessage    │
+│    or FipsAdapter: fips::Frame → TransportMessage   | 
 │  (multiple adapters can run simultaneously —        │
 │   same MLS group reachable over both transports)    │
 ├─────────────────────────────────────────────────────┤
